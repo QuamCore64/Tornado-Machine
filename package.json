@@ -1,0 +1,33 @@
+{
+  "name": "tornado-machine",
+  "version": "0.1.0",
+  "description": "A next-generation AI-powered tornado simulation and weather analysis system",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "tornado",
+    "weather",
+    "simulation",
+    "ai",
+    "machine-learning",
+    "meteorology"
+  ],
+  "author": "QuamCore64",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuamCore64/Tornado-Machine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuamCore64/Tornado-Machine/issues"
+  },
+  "homepage": "https://github.com/QuamCore64/Tornado-Machine#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
